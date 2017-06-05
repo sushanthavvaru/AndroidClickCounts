@@ -1,0 +1,4 @@
+Created by SUSHANTH AVVARU
+
+Application developed to count the number of clicks on button on the screen and number of times the application entered the
+background in bothnlandscape and potrait mode. Used onCLickListener and Activity life cycle funtions to implement this applcation.
